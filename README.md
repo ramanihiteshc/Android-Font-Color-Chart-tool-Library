@@ -12,7 +12,7 @@
  <ol>
 <li><strong>PhotoPicker</strong> 图片选择 &amp; 图片预览<br><a href="https://github.com/donglua/PhotoPicker" target="_blank">https://github.com/donglua/PhotoPicker</a></li>
 </ol>
-<h2 id="injector" style="color:Tomato;><a name="Injector" id="Injector"></a>Injector</h2>
+<h2 id="injector" style="color:Tomato;"><a name="Injector" id="Injector"></a>Injector</h2>
 <ol>
 <li><strong>AndroidAnnotations</strong>  Fast Android Development. Easy maintainance.
 <a href="https://github.com/excilys/androidannotations" target="_blank">https://github.com/excilys/androidannotations</a></li>
